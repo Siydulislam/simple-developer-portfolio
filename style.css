@@ -3,19 +3,17 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 section{
-    height: 500px;
-    padding-top: 10px;
+    height: 550px;
+    margin-top: 30px;
 }
 .all-items{
     margin-top: 50px;
     border: 1px solid white;
     padding: 0px 50px 5px 5px;
 }
-.focus-color{
-    color: #333333;
-}
-.mission-color{
-    color: #FFAD5A;
+.mission-font-color{
+    font-family: cursive;
+    font-size: 50px;
 }
 .side-bar{
     border-left: 3px solid #FF5959;
@@ -27,13 +25,14 @@ section{
     margin: auto;
 }
 .person-photo img{
-    width: 300px;
+    width: 400px;
 }
 .para-color{
     color: #3E3E3E;
 }
 .btn-details{
     color: white;
+    font-size: 20px;
     padding: 15px 50px;
     border: none;
     border-radius: 5px;
@@ -41,9 +40,10 @@ section{
 }
 .mission-heading{
     text-align: center;
+    font-size: 40px;
+    font-family: cursive;
 }
 .mission{
-    border: 0px solid black;
     background: #E5E5E5;
     border-radius: 20px;
     padding: 20px;
@@ -81,14 +81,14 @@ section{
     width: 400px;
     position: relative;
     top: 0;
-    left: 250px;
+    left: 0;
     z-index: 1;
 }
 .community-image2{
     width: 200px;
     position: absolute;
     top: 270px;
-    left: 520px;
+    left: 280px;
 }
 .community-details{
     margin-top: 50px;
