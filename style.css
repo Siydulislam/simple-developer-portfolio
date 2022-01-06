@@ -4,8 +4,7 @@ body{
 }
 section{
     height: 500px;
-    padding-top: 20px;
-    padding-bottom: 10px;
+    padding-top: 10px;
 }
 .all-items{
     margin-top: 50px;
@@ -18,10 +17,6 @@ section{
 .mission-color{
     color: #FFAD5A;
 }
-/* .font-family{
-    font-weight: bold;
-    font-family: P;
-} */
 .side-bar{
     border-left: 3px solid #FF5959;
     padding-left: 10px;
@@ -43,4 +38,18 @@ section{
     border: none;
     border-radius: 5px;
     background-color: #FFAD5A;
+}
+.mission-heading{
+    text-align: center;
+}
+.mission{
+    border: 1px solid black;
+    background: #E5E5E5;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+}
+.mission img{
+    width: 150px;
+
 }
