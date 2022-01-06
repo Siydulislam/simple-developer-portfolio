@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    height: 500px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.all-items{
+    margin-top: 50px;
+    border: 1px solid white;
+    padding: 0px 50px 5px 5px;
+}
+.focus-color{
+    color: #333333;
+}
+.mission-color{
+    color: #FFAD5A;
+}
+/* .font-family{
+    font-weight: bold;
+    font-family: P;
+} */
+.side-bar{
+    border-left: 3px solid #FF5959;
+    padding-left: 10px;
+}
+.parent{
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+.person-photo img{
+    width: 300px;
+}
+.para-color{
+    color: #3E3E3E;
+}
+.btn-details{
+    color: white;
+    padding: 15px 50px;
+    border: none;
+    border-radius: 5px;
+    background-color: #FFAD5A;
+}
